@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.sakura.support.preferences;
+package com.yalp.settings.preferences;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -33,7 +33,7 @@ import android.widget.TextView;
 
 import androidx.preference.*;
 
-import com.sakura.support.R;
+import com.yalp.support.R;
 
 public class CustomSeekBarPreference extends Preference implements SeekBar.OnSeekBarChangeListener {
     private final String TAG = getClass().getName();

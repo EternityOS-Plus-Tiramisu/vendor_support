@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.sakura.support.colorpicker;
+package com.yalp.settings.colorpicker;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -36,7 +36,7 @@ import android.widget.LinearLayout;
 
 import androidx.preference.*;
 
-import com.sakura.support.R;
+import com.yalp.support.R;
 
 /**
  * A preference type that allows a user to choose a time
