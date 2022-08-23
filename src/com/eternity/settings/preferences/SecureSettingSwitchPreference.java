@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.yalp.settings.preferences;
+package com.eternity.settings.preferences;
 
 import android.content.Context;
 import android.provider.Settings;

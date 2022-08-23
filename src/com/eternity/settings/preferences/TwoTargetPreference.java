@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.yalp.settings.preferences;
+package com.eternity.settings.preferences;
 
 import android.content.Context;
 import androidx.preference.Preference;
@@ -22,7 +22,7 @@ import androidx.preference.PreferenceViewHolder;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.yalp.support.R;
+import com.eternity.support.R;
 
 public class TwoTargetPreference extends Preference {
 

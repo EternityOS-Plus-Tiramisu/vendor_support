@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.yalp.settings.colorpicker;
+package com.eternity.settings.colorpicker;
 
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;

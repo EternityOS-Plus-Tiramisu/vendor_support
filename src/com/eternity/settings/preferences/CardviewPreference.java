@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.yalp.settings.preferences;
+package com.eternity.settings.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -25,7 +25,7 @@ import androidx.core.content.res.TypedArrayUtils;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.yalp.support.R;
+import com.eternity.support.R;
 
 public class CardviewPreference extends Preference {
 

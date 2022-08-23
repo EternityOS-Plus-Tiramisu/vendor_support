@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.yalp.settings.colorpicker;
+package com.eternity.settings.colorpicker;
 
 import android.content.Context;
 import android.graphics.Canvas;

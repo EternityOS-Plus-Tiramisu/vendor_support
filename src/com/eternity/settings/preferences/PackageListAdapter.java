@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.yalp.settings.preferences;
+package com.eternity.settings.preferences;
 
 import android.content.Context;
 import android.content.Intent;
@@ -32,7 +32,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.yalp.support.R;
+import com.eternity.support.R;
 
 import java.util.Collections;
 import java.util.LinkedList;

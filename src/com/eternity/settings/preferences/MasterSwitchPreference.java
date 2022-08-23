@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.yalp.settings.preferences;
+package com.eternity.settings.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -23,7 +23,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.Switch;
 
-import com.sakura.support.R;
+import com.eternity.support.R;
 
 /**
  * A custom preference that provides inline switch toggle. It has a mandatory field for title, and

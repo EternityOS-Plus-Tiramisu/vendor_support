@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.yalp.settings.preferences;
+package com.eternity.settings.preferences;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.sakura.support.preferences.SystemSettingsStore;
+import com.eternity.support.preferences.SystemSettingsStore;
 
 public class SystemSettingMasterSwitchPreference extends MasterSwitchPreference {
 
